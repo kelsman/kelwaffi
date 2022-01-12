@@ -15,17 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Kelvin Oigiangbe a full stack web developer, A full stack developer currently at [Fatestbooking](https://linkedin.com/in/fastestbooking) 
-I am interested in, write about, and develop (open source) software solutions
-using JavaScript, TypeScript, ReactJS, and NodeJS.
+<h1 align="center"> 
+    Hello World 👋🌍; </br>My name is Kelvin Oigiangbe and<br/>&lt;&nbsp;Full stack developer 👨🏽‍💻 &nbsp;/&gt;
+</h1>
+<p align="left"> <a href="https://twitter.com/bomoakin" target="blank"><img src="https://img.shields.io/twitter/follow/bomoakin?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
+
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/kelwaffi)
 
 ## 📬 Get in touch
 <!-- 
 - Web: [natterstefan.me][1] -->
-- LinkedIn: (linkedin.com/in/kelvin-oigiangbe)
-- Twitter: (twitter.com/kels__man)
-- <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" /> : (https://wa.me/2347033445286)
+- LinkedIn: [linkedin.com/in/kelvin-oigiangbe]
+- Twitter: [twitter.com/kels__man]
+- <a href="https://wa.me/2347033445286">
+  <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
+</a>
 
 
 
