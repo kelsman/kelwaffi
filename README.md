@@ -18,6 +18,16 @@ Here are some ideas to get you started:
 I am Kelvin Oigiangbe a full stack web developer, A full stack developer currently at [Fatestbooking](https://linkedin.com/in/fastestbooking) 
 I am interested in, write about, and develop (open source) software solutions
 using JavaScript, TypeScript, ReactJS, and NodeJS.
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/kelwaffi)
+
+## 📬 Get in touch
+<!-- 
+- Web: [natterstefan.me][1] -->
+- LinkedIn: [linkedin.com/in/kelvin-oigiangbe][2]
+- Twitter: [twitter.com/kels__man][3]
+- <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" /> : [https://wa.me/2347033445286]
+
+
 
  * NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/kelwaffi/github-readme-stats).
 
