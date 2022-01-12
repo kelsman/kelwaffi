@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,12 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <h1 align="center"> 
     Hello World 👋🌍; </br>My name is Kelvin Oigiangbe and<br/>&lt;&nbsp;Full stack developer 👨🏽‍💻 &nbsp;/&gt;
+    <small color="lightBlue">  I am interested in, write about, and develop (open source) software solutions
+using JavaScript, TypeScript, ReactJS, Angular and NodeJS.</small>
 </h1>
 <p align="left"> <a href="https://twitter.com/kels__man" target="blank"><img src="https://img.shields.io/twitter/follow/kels__man?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/kelwaffi)
+
+
+- 🌱 I’m currently learning [Go](https://go.dev/doc/) 
+
+- 👯 I’m looking to collaborate on [Open source](https://en.wikipedia.org/wiki/Open_source) software projects
+
+
 
 ## 📬 Get in touch
 <!-- 
