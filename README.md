@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> 
-    Hello World 👋🌍; </br>My name is Kelvin Oigiangbe and<br/>&lt;&nbsp;Full stack developer 👨🏽‍💻 &nbsp;/&gt;
+    Hello World 👋🌍; </br>My name is Kelvin Oigiangbe,<br/>&lt;&nbsp;Full stack developer 👨🏽‍💻 &nbsp;/&gt;
     <small color="lightBlue">  I am interested in, write about, and develop (open source) software solutions
 using JavaScript, TypeScript, ReactJS, Angular and NodeJS.</small>
 </h1>
