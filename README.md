@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> 
     Hello World 👋🌍; </br>My name is Kelvin Oigiangbe and<br/>&lt;&nbsp;Full stack developer 👨🏽‍💻 &nbsp;/&gt;
 </h1>
-<p align="left"> <a href="https://twitter.com/bomoakin" target="blank"><img src="https://img.shields.io/twitter/follow/bomoakin?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kels__man" target="blank"><img src="https://img.shields.io/twitter/follow/kels__man?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/kelwaffi)
 
