@@ -23,9 +23,9 @@ using JavaScript, TypeScript, ReactJS, and NodeJS.
 ## 📬 Get in touch
 <!-- 
 - Web: [natterstefan.me][1] -->
-- LinkedIn: [linkedin.com/in/kelvin-oigiangbe][2]
-- Twitter: [twitter.com/kels__man][3]
-- <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" /> : [https://wa.me/2347033445286]
+- LinkedIn: (linkedin.com/in/kelvin-oigiangbe)
+- Twitter: (twitter.com/kels__man)
+- <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" /> : (https://wa.me/2347033445286)
 
 
 
