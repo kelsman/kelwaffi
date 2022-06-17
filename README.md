@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> 
-    Hello World 👋🌍; </br>My name is Kelvin Oigiangbe,<br/>&lt;&nbsp;Full stack developer 👨🏽‍💻 &nbsp;/&gt;
+    Hello World 👋🌍; </br>I'm Kelvin Oigiangbe,<br/>&lt;&nbsp; A Full stack developer 👨🏽‍💻 &nbsp;/&gt;
     <small color="lightBlue">  I am interested in, write about, and develop software solutions
-using JavaScript, TypeScript, ReactJS, Angular and NodeJS.</small>
+using JavaScript, TypeScript, ReactJS, Angular, Nestjs and NodeJS.</small>
 </h1>
 <p align="left"> <a href="https://twitter.com/kels__man" target="blank"><img src="https://img.shields.io/twitter/follow/kels__man?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
