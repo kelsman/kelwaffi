@@ -39,7 +39,7 @@ using JavaScript, TypeScript, ReactJS, Angular, Nestjs and NodeJS.</small>
 - Twitter: [twitter.com/kels__man]
 - <a href="https://wa.me/2347033445286">
   <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
-</a>
+  </a>
 
 
 
