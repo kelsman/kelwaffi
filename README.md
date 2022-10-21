@@ -35,7 +35,7 @@ using JavaScript, TypeScript, ReactJS, Angular, Nestjs and NodeJS.</small>
 ## 📬 Get in touch
 <!-- 
 - Web: [natterstefan.me][1] -->
-- LinkedIn: [linkedin.com/in/kelvin-oigiangbe]
+- LinkedIn: [linkedin.com/in/kelvin-ose]
 - Twitter: [twitter.com/kels__man]
 - <a href="https://wa.me/2347033445286">
   <img align="left" alt="My contact" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
@@ -43,10 +43,7 @@ using JavaScript, TypeScript, ReactJS, Angular, Nestjs and NodeJS.</small>
 
 
 
- * NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/kelwaffi/github-readme-stats).
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelwaffi&show_icons=true&include_all_commits=true&theme=radical&title_color=FFC73E" alt="Kelvin's github stats" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwaffi&theme=radical&title_color=FFC73E)](https://github.com/kelwaffi/github-readme-stats)
 
